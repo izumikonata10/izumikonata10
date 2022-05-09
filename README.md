@@ -1,6 +1,6 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@izumikonata10.github.readme?theme=rule34"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+  <img src="https://weather-icon.journeyad.repl.co/@wuxi?v=1" align="right">
 </p>
 
 #### Platform&Tools
